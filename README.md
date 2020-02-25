@@ -11,12 +11,14 @@ Share repository for project 1 for UCB Data bootcamp
 * Will a movies Rating affect its profitability?
 * What does winning an award do for a movie?
 <br/>
-## Project Steps
+
+### Project Steps
 * Find open sources online 
 * Grab data from sources using API calls etc
 * Organize and clean data into a clean dataframe/csv with floats/ints
 * Analyze/plot  individual columns to find out relationships
 <br/>
+
 ## The Data
 * The Numbers Box Office Site
 * OMDB Movies API
