@@ -27,7 +27,7 @@ Share repository for project 1 for UCB Data bootcamp
 * Kaggle Movie Dataset CSV
 <br/>
 
-* Limitations of data
+* Limitations of data<br/
 Open source entries<br/>
 Messy, inconsistent<br/>
 Credibility questionable<br/>
