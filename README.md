@@ -9,6 +9,7 @@ Share repository for project 1 for UCB Data bootcamp
 * Chose this topic because the subjects is relatable
 * Lots of easily accessible, public data
 * Can apply the same process for similar analysis to any product/category with sales data, amazon review score, etc
+
 <br/>Answer questions such as<br/>
 * Is it as easy as making a sequel?
 * Do release dates affect profits?
