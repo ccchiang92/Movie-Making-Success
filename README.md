@@ -5,7 +5,7 @@ Share repository for project 1 for UCB Data bootcamp
 ## Goals
 ### What are important factors in making a financially successful movie
 #### Main Motivations
-<br/>
+
 * Chose this topic because the subjects is relatable
 * Lots of easily accessible, public data
 * Can apply the same process for similar analysis to any product/category with sales data, amazon review score, etc
