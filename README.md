@@ -1,6 +1,8 @@
 # Project-1
 # Ingredients to Movie Making Success
-Share repository for project 1 for UCB Data bootcamp
+Share repository for project 1 for UCB Data bootcamp<br>
+Check out a visualization website for this project here 
+https://ccchiang92.github.io/Boxoffice_visualization/
 <br/>
 ## Goals
 ### What are important factors in making a financially successful movie
