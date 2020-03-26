@@ -46,10 +46,16 @@ Credibility questionable<br/>
 Contains raw and processed data, final_with_youtube_fix.csv is the finished clean data
 * 2. Python jupyter scripts in scripts folder<br/>
 Contains API calling script, data cleaning script, and plotting/analyze scripts
-* 3. Plot_picw<br/>
+* 3. Plot_pics<br/>
 Contains various figures and code screen shots
 * 4. Main folder<br>
 Contains project guidelines and presentation
 
+## Project Group Members
+
+* Akylbek Zhumagaliyev
+* Chris Chiang
+* Brian Perry
+* Richard Wendel
 
 
