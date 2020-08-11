@@ -1,8 +1,5 @@
 # Ingredients to Movie Making Success
-A project on obtaining various attributes of movies and analyze their correlation with box office numbers
-Responsible for grabbing movie data from a number of web apis such as OMDB and youtube
-Cleaned and wrangled data with python pandas and created various graphs using matplotlib
-Build a simple website to display visualization results as a personal project using bootstrap and html
+A project on obtaining various attributes of movies and analyze their correlation with box office numbers <br/>
 Check out a visualization website for this project here 
 https://ccchiang92.github.io/Boxoffice_visualization/
 <br/>
