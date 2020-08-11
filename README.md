@@ -1,4 +1,3 @@
-# Project-1
 # Ingredients to Movie Making Success
 Share repository for project 1 for UCB Data bootcamp<br>
 Check out a visualization website for this project here 
